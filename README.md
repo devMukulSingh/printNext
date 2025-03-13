@@ -1,6 +1,7 @@
 
 # PrintNext
-Note: Code is private
+Note: Code is private\ 
+
 A complete all in one solution designed for Cyber cafe owners to make Collage, Passport photos,Cropping Aadhar PDF, Ayushman PDF,and Print on the go.
 
 
